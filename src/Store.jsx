@@ -1,5 +1,5 @@
 import { createStore } from 'redux';
-
+ // intial state for state management
 const intialstate = {
     todos:[],
     nextid:1
